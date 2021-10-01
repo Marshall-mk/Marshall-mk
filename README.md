@@ -1,4 +1,4 @@
-# Hi 👋 , I'm Kabir Hamzah. But feel free to call me Marshallhamzah
+# Hi 👋 , I'm Kabir.
 
 ### I'm a Python Programmer and an Intermediate Deep learning Engineer 😊
 
