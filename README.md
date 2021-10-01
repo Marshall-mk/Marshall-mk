@@ -1,6 +1,6 @@
 # Hi 👋 , I'm Kabir.
 
-### I'm a Python Programmer and an Intermediate Deep learning Engineer 😊
+### I'm a Python Programmer and a newbie Deep learning Engineer 😊
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
