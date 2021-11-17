@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
+- ⚡ Basically everything computer vision 😊
 - 📝 I am about to bag a first class degree in biomedical engineering (2022) 😊
 - 🤔 I’m looking for help with mentorship
 - 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
