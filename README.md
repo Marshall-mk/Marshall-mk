@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ I love dogs. Cats are like women, I don't understand them.
 - ⚡ I love Billie Eilish 😊
-- ⚡ I listen Niall Horan alot 😄
+- ⚡ I listen to Niall Horan alot 😄
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people so if you want to say hi, you can reach me using the links below</b> 🤙</em>
 
