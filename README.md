@@ -30,6 +30,21 @@
 const anmol = {
     code: ["Python", "Dart"],
     askMeAbout: ["AI", "Deep learning", "tech", "app dev"],
+    GENERAL SKILLS:
+        [ML,DL,NLP,CV,Statistical modeling, data analytics, big data, git/github, data visualisation
+	    docker and probability],
+    FRAMEWORKS:
+	    [Tensorflow, keras, pytorch, media pipe],
+    LIBRARIES:
+	    [Scikit learn, dash, mito, Hub, pandas, numpy, scipy, opencv, NLTK, matplotlib, spacy, streamlit, sage, sympy],
+    BIG DATA TECHNOLOGIES:
+	    [Spark, Hadoop, Hive],
+    CLOUD TECHNOLOGIES:
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI],
+    DATA VISUALISATION TOOLS:
+	    [Tableau, Power BI, Congos dashboard(IBM)],
+    OTHERS:
+	    [Orange, Knime, IBM, Gitlab, Gitbucket, Kubernetees]
     },
   
 };
