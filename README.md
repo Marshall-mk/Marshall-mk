@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
+- ⚡ But also interested in NLP.
 - ⚡ Basically everything computer vision 😊
 - 📝 I am about to bag a first class degree in biomedical engineering (2022) 😊
-- 🤔 I’m looking for help with mentorship
+- 🤔 I’m looking for help with mentorships and internships(either paid or not). Just got to have a professional experience.
 - 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
 - 👯 I’m always ready to collaborate with other learners
 - 😄 Pronouns: He/Him
@@ -37,7 +38,7 @@ const anmol = {
 	    [Tensorflow, keras, media-pipe],
     LIBRARIES:
 	    [Scikit-learn, dash, mito, Hub, pandas, numpy, scipy, opencv, matplotlib, spacy, streamlit, sage, sympy],
-    BIG DATA TECHNOLOGIES:
+    BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:
 	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI],
