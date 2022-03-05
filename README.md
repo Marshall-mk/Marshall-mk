@@ -30,22 +30,22 @@
 ```javascript
 const anmol = {
     code: ["Python", "Dart"],
-    askMeAbout: ["AI", "Deep learning", "tech", "app dev"],
+    askMeAbout: ["AI", "Deep learning", "MLOPs", "tech", "app dev"],
     GENERAL SKILLS:
         [ML,DL,NLP,CV,Statistical modeling, data analytics, big data, git/github, data visualisation,
 	    docker, and probability],
     FRAMEWORKS:
-	    [Tensorflow, keras, media-pipe],
+	    [Tensorflow, Keras, media-pipe],
     LIBRARIES:
 	    [Scikit-learn, dash, mito, Hub, pandas, numpy, scipy, opencv, matplotlib, spacy, streamlit, sage, sympy],
     BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:
-	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI],
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, MLCON],
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS:
-	    [Orange, Knime, IBM, Gitlab, Gitbucket, Kubernetees]
+	    [Orange, Knime, IBM, Gitlab, Gitbucket, Kubernetees, MIRO, Notion]
     },
   
 };
