@@ -28,9 +28,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    code: ["Python", "Dart"],
-    askMeAbout: ["AI", "Deep learning", "MLOPs", "tech", "app dev"],
+const mkh = {
+    code: ["Python", "SQL"],
+    askMeAbout: ["AI", "Deep learning", "MLOPs", "tech"],
     GENERAL SKILLS:
         [ML,DL,NLP,CV,Statistical modeling, data analytics, big data, git/github, data visualisation,
 	    docker, and probability],
@@ -45,7 +45,7 @@ const anmol = {
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS:
-	    [Orange, Knime, IBM, Gitlab, Gitbucket, Kubernetees, MIRO, Notion]
+	    [Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite]
     },
   
 };
