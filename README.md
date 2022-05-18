@@ -38,7 +38,8 @@ const mkh = {
     FRAMEWORKS:
 	    [Tensorflow, Keras, Media-pipe],
     LIBRARIES:
-	    [Scikit-learn, Dash, Mito, Hub, Pandas, Numpy, Scipy, omegaconf, fastapi, tf2onnx, MLFlow, Opencv, Matplotlib, Spacy, Streamlit, Sage, Sympy],
+	    [Scikit-learn, Dash, Mito, Hub, Pandas, Numpy, Scipy, omegaconf, fastapi, tf2onnx, MLFlow, 
+	    Opencv, Matplotlib, Spacy, Streamlit, Sage, Sympy],
     BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:  
@@ -46,7 +47,8 @@ const mkh = {
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS/Tools:
-	    [Dagshub, Git/Github, DVC, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite, Git/Github, Dagshub,]
+	    [Dagshub, Git/Github, DVC, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, 
+	    MySQL, SQLite, Git/Github, Dagshub,]
     },
   
 };
