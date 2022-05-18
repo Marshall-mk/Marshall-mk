@@ -33,20 +33,20 @@ const mkh = {
     GENERAL SKILLS:
     	{CV: [Image Classification, Object detection, Image Segmentation],
 	NLP: [Sentiment Analysis, Text summarization, Translation],
-        Others: [Statistical Modeling, Data Analytics, Big Data, Git/Github, Dagshub, Data Visualisation,
-	    Docker, and, Probability],
+	Time Series: [Medical signals, Stock/currency markets],
+        Others: [MLOPS, Statistical Modeling, Data Analytics, Data Visualisation, and, Probability],
     FRAMEWORKS:
-	    [Tensorflow, Keras, media-pipe],
+	    [Tensorflow, Keras, Media-pipe],
     LIBRARIES:
 	    [Scikit-learn, Dash, Mito, Hub, Pandas, Numpy, Scipy, omegaconf, fastapi, tf2onnx, MLFlow, Opencv, Matplotlib, Spacy, Streamlit, Sage, Sympy],
     BIG DATA TECHNOLOGIES(yet):
-	    [DVC, Spark, Hadoop, Hive],
-    CLOUD TECHNOLOGIES:
-	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON],
+	    [Spark, Hadoop, Hive],
+    CLOUD TECHNOLOGIES:  
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON, Vertex AI, ],
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
-    OTHERS:
-	    [Dagshub, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite]
+    OTHERS/Tools:
+	    [Dagshub, Git/Github, DVC, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite, Git/Github, Dagshub,]
     },
   
 };
