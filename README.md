@@ -1,12 +1,11 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I'm a Python Programmer and a newbie Deep learning Engineer 😊
+### I'm a Python Programmer and a Deep learning Engineer 😊
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
-- ⚡ But also interested in NLP.
-- ⚡ Basically everything computer vision 😊
+- ⚡ But also interested in NLP 😊.
 - 📝 I am about to bag a first class degree in biomedical engineering (2022) 😊
 - 🤔 I’m looking for help with mentorships and internships(either paid or not). Just got to have a professional experience.
 - 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
@@ -32,20 +31,22 @@ const mkh = {
     code: ["Python", "SQL"],
     askMeAbout: ["AI", "Deep learning", "MLOPs", "tech"],
     GENERAL SKILLS:
-        [ML,DL,NLP,CV,Statistical modeling, data analytics, big data, git/github, data visualisation,
-	    docker, and probability],
+    	{CV: [Image Classification, Object detection, Image Segmentation],
+	NLP: [Sentiment Analysis, Text summarization, Translation],
+        Others: [Statistical Modeling, Data Analytics, Big Data, Git/Github, Dagshub, Data Visualisation,
+	    Docker, and, Probability],
     FRAMEWORKS:
 	    [Tensorflow, Keras, media-pipe],
     LIBRARIES:
-	    [Scikit-learn, dash, mito, Hub, pandas, numpy, scipy, opencv, matplotlib, spacy, streamlit, sage, sympy],
+	    [Scikit-learn, Dash, Mito, Hub, Pandas, Numpy, Scipy, omegaconf, fastapi, tf2onnx, MLFlow, Opencv, Matplotlib, Spacy, Streamlit, Sage, Sympy],
     BIG DATA TECHNOLOGIES(yet):
-	    [Spark, Hadoop, Hive],
+	    [DVC, Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:
-	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, MLCON],
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON],
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS:
-	    [Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite]
+	    [Dagshub, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, MySQL, SQLite]
     },
   
 };
