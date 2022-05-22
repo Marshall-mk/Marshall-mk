@@ -33,8 +33,8 @@ const mkh = {
     GENERAL SKILLS:
     	{CV: [Image Classification, Image Segmentation, Object Detection],
 	NLP: [Sentiment Analysis, Text Summarization, Translation],
-	Time Series: [Medical signals, Stock/Currency Markets],
-        Others: [MLOPS, Statistical Modeling, Data Analytics, Data Visualisation, and, Probability],
+	Time Series: [Medical Signals, Stock/Currency Markets],
+        Others: [MLOPS, Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
     FRAMEWORKS:
 	    [Tensorflow, Keras, Media-pipe],
     LIBRARIES:
