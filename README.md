@@ -31,9 +31,9 @@ const mkh = {
     code: ["Python", "SQL"],
     askMeAbout: ["AI", "Deep learning", "MLOPs", "tech"],
     GENERAL SKILLS:
-    	{CV: [Image Classification, Object detection, Image Segmentation],
-	NLP: [Sentiment Analysis, Text summarization, Translation],
-	Time Series: [Medical signals, Stock/currency markets],
+    	{CV: [Image Classification, Image Segmentation, Object Detection],
+	NLP: [Sentiment Analysis, Text Summarization, Translation],
+	Time Series: [Medical signals, Stock/Currency Markets],
         Others: [MLOPS, Statistical Modeling, Data Analytics, Data Visualisation, and, Probability],
     FRAMEWORKS:
 	    [Tensorflow, Keras, Media-pipe],
