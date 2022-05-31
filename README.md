@@ -1,7 +1,7 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I'm a Python Programmer and a Deep learning Engineer 😊
+### Deep learning Engineer (CV and NLP) X MLOps!!!😊
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
@@ -28,13 +28,13 @@
 
 ```javascript
 const mkh = {
-    code: ["Python", "SQL"],
+    code: ["Python", "SQL<<"],
     askMeAbout: ["AI", "Deep learning", "MLOPs", "tech"],
     GENERAL SKILLS:
     	{CV: [Image Classification, Image Segmentation, Object Detection],
 	NLP: [Sentiment Analysis, Text Summarization, Translation],
-	Time Series: [Medical Signals, Stock/Currency Markets],
-        Others: [MLOPS, Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
+	MLOPS,
+        Others: [Time Series: [Medical Signals, Stock/Currency Markets], Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
     FRAMEWORKS:
 	    [Tensorflow, Keras, Media-pipe],
     LIBRARIES:
@@ -43,7 +43,7 @@ const mkh = {
     BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:  
-	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON, Vertex AI, ],
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON, Vertex AI],
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS/Tools:
