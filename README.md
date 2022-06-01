@@ -56,6 +56,13 @@ const mkh = {
   
 };
 ```
+<h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshall-mk&layout=compact&hide=html&theme=onedark" alt="marshall-mk" />
+</h3>
+<br />
+<h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=marshall-mk&show_icons=true&theme=onedark" alt="marshall-mk" />
+</h3>
 
 
 ---   
