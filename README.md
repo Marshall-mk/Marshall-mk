@@ -17,12 +17,15 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people so if you want to say hi, you can reach me using the links below</b> 🤙</em>
 
+<h3>Contact</h3>
+<p>
+	
+<p>
+  <a href="https://twitter.com/marshallhamzah" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/kabir-muhammad-b82161135" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="muhammadkabirhamzah@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     </a>
 
-[Twitter](https://twitter.com/marshallhamzah)
-</br>
-[LinkedIn](https://www.linkedin.com/in/kabir-muhammad-b82161135)
-</br>
-[Gmail](muhammadkabirhamzah@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
