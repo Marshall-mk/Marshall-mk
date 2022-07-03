@@ -1,7 +1,7 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Deep learning Engineer x MLOps practitioner!!!😊
+### Deep Learning Engineer x MLOps Practitioner!!!😊
 Specialty: Computer Vision
 
 - 🌱 I’m currently learning image processing techniques with deep learning
@@ -36,8 +36,8 @@ const mkh = {
     askMeAbout: ["AI", "Deep learning", "MLOPs", "tech"],
     GENERAL SKILLS:
     	{CV: [Image Classification, Image Segmentation, Object Detection],
+	MLOps: [DVC, Git, Docker, Dagshub, MLFlow, FastAPI, ONNX, Streamlit, Hub, Kibana, omegaconf, Hydra...]
 	NLP: [Sentiment Analysis, Text Summarization, Translation],
-	MLOPS,
         Others: [Time Series: [Medical Signals, Stock/Currency Markets], Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
     FRAMEWORKS:
 	    [Tensorflow, Keras, Media-pipe],
@@ -47,12 +47,12 @@ const mkh = {
     BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:  
-	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRGMLCON, Vertex AI],
+	    [AWS, AZURE, GCP, Auto AI(IBM), Abacus.AI, CNVRG/MLCON, Vertex AI],
     DATA VISUALISATION TOOLS:
 	    [Tableau, Power BI, Congos dashboard(IBM)],
     OTHERS/Tools:
 	    [Dagshub, Git/Github, DVC, Orange, Knime, Gitlab, Gitbucket, Kubernetees, MIRO, Notion, 
-	    MySQL, SQLite, Git/Github, Dagshub,]
+	    MySQL, SQLite, Git/Github]
     },
   
 };
