@@ -1,13 +1,14 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Deep learning Engineer (CV and NLP) X MLOps!!!😊
+### Deep learning Engineer x MLOps practitioner!!!😊
+Specialty: Computer Vision
 
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
-- ⚡ But also interested in NLP 😊.
+- ⚡ But also interested in NLP for fun 😊.
 - 📝 I am about to bag a first class degree in biomedical engineering (2022) 😊
-- 🤔 I’m looking for help with mentorships and internships(either paid or not). Just got to have a professional experience.
+- 🤔 I’m looking for help with mentorships and internships (either paid or not). Just got to have a professional experience.
 - 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
 - 👯 I’m always ready to collaborate with other learners
 - 😄 Pronouns: He/Him
@@ -42,7 +43,7 @@ const mkh = {
 	    [Tensorflow, Keras, Media-pipe],
     LIBRARIES:
 	    [Scikit-learn, Dash, Mito, Hub, Pandas, Numpy, Scipy, omegaconf, fastapi, tf2onnx, MLFlow, 
-	    Opencv, Matplotlib, Spacy, Streamlit, Sage, Sympy],
+	    Opencv, Cvlib, Matplotlib, Spacy, Streamlit, Sage, Sympy],
     BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
     CLOUD TECHNOLOGIES:  
