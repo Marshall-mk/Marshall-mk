@@ -7,7 +7,7 @@ Specialty: Computer Vision
 - 🌱 I’m currently learning image processing techniques with deep learning
 - ⚡ I have a strong interest in image processing for medical diagnotics 
 - ⚡ But also interested in NLP for fun 😊.
-- 📝 I am about to bag a first class degree in biomedical engineering (2022) 😊
+- 📝 First class degree in biomedical engineering (2022) 😊
 - 🤔 I’m looking for help with mentorships and internships (either paid or not). Just got to have a professional experience.
 - 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
 - 👯 I’m always ready to collaborate with other learners
