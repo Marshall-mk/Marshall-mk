@@ -30,19 +30,27 @@ Specialty: Computer Vision, Medical Imaging, Diagnosis, Prognosis and Treatment
 const mkh = {
     code: ["Python", "SQL<<"],
     askMeAbout: ["AI", "Deep learning", "MLOPs", "Medical Imaging and Applications"],
-    GENERAL SKILLS:
-    	{CV: [Image Classification, Image Segmentation, Object Detection & Recognition],
-	MLOps: [DVC, MLEM, MLRUN, Kubeflow, Kubernetes, Airflow, TFX, Git, Docker, Dagshub, MLFlow, FastAPI, ONNX, Streamlit, Hub, Kibana, omegaconf, Hydra...]
-	NLP: [NER, Text Summarization, Medical Report Generation],
-        Others: [Time Series: [Medical Signals, Stock/Currency Markets], Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
-    FRAMEWORKS:
-	    [Tensorflow, Keras, Pytorch],
-    LIBRARIES:
-	    [Scikit-learn, Mito, Hub, Pandas, Numpy, Scipy, tf2onnx, 
-	    Opencv, Cvlib, Matplotlib, Spacy, Streamlit, Radtext, Sympy],
 
-    CLOUD TECHNOLOGIES:  
-	    [AWS, GCP, Abacus.AI, CNVRG/MLCON, Vertex AI],
+    GENERAL SKILLS:
+    	{
+	CV:
+	     [Image Classification, Image Segmentation, Object Detection & Recognition],
+	MLOps:
+	     [Iterative tools:[DVC, MLEM, CML, Studio], MLFlow, MLRUN, TFX, Kubeflow, Kubernetes, Docker, Airflow, Git, Dagshub,
+		FastAPI, Streamlit, ONNX, Hub, Kibana, omegaconf, Hydra...]
+	NLP:
+             [NER, Text Summarization, Medical Report Generation],
+
+        Others: [
+	     Time Series: [Medical Signals, Stock/Currency Markets], Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
+
+    	FRAMEWORKS:
+	     [Tensorflow, Keras, Pytorch],
+    	LIBRARIES:
+	     [Scikit-learn, Mito, Hub, Pandas, Numpy, Scipy, tf2onnx, Pycaret, Opencv, Cvlib, Matplotlib, Spacy, Streamlit, Radtext, Sympy],
+
+    	CLOUD TECHNOLOGIES:  
+	     [AWS, GCP, Abacus.AI, CNVRG/MLCON, Vertex AI],
 
     },
   
