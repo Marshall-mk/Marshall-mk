@@ -20,6 +20,7 @@ Specialty: Computer Vision, Medical Imaging, Diagnosis, Prognosis and Treatment
 <p>
   <a href="https://twitter.com/kabir_hamzah" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/kabir-muhammad-b82161135" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@marshallhamzah" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
   <a href="muhammadkabirhamzah@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
 
