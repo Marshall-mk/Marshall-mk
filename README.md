@@ -1,10 +1,11 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Medical Machine Learning Engineer x Data Engineer x MLOps Practitioner!!!😊
-Specialty: Computer Vision, Medical Imaging, Diagnosis, Prognosis and Treatment
+### Medical Machine Learning Engineer x Data & MLOps Engineer!!!😊
+Specialty: Computer Vision & Medical Imaging
 
 - 🌱 I’m currently learning image processing techniques with deep learning
+- 📚 Data and MLOps on Cloud platforms
 - ⚡ I have a strong interest in AI for Medical Diagnosis, Prognosis and Treatment
 - 📝 First class degree in biomedical engineering (2022) 😊
 - 🤔 I’m looking for help with mentorships and internships.
