@@ -44,12 +44,12 @@ const mkh = {
              [NER, Text Summarization, Medical Report Generation],
 
         Others: [
-	     Time Series: [Medical Signals, Stock/Currency Markets], Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
+	     Time Series: [Medical Signals, Statistical Modeling, Data Analytics, Data Visualisation, and Probability],
 
     	FRAMEWORKS:
-	     [Tensorflow, Keras, Pytorch],
+	     [Tensorflow, Keras, Pytorch, Monai],
     	LIBRARIES:
-	     [Scikit-learn, Mito, Hub, Pandas, Numpy, Scipy, tf2onnx, Pycaret, Opencv, Cvlib, Matplotlib, Spacy, Streamlit, Radtext, Sympy],
+	     [Scikit-learn, Pandas, Numpy, Scipy, Pycaret, Opencv, Cvlib, Matplotlib, Spacy, Streamlit, Radtext, Sympy, Spacy],
 
     	CLOUD TECHNOLOGIES:  
 	     [AWS, GCP, Abacus.AI, CNVRG/MLCON, Vertex AI],
