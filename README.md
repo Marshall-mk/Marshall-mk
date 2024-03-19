@@ -80,3 +80,9 @@ const mkh = {
          BIG DATA TECHNOLOGIES(yet):
 	    [Spark, Hadoop, Hive],
 -->
+
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Marshall-mk%2FMarshall-mk/count.svg" />
+</p>
