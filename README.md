@@ -7,9 +7,6 @@ Specialty: Computer Vision & Medical Imaging
 - 🌱 I’m currently learning image processing techniques with deep learning
 - 📚 Data and MLOps on Cloud platforms
 - ⚡ I have a strong interest in AI for Medical Diagnosis, Prognosis and Treatment
-- 📝 First class degree in biomedical engineering (2022) 😊
-- 🤔 I’m looking for help with mentorships and internships.
-- 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious
 - 👯 I’m always ready to collaborate with other learners
 - 😄 Pronouns: He/Him
 
