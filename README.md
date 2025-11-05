@@ -1,12 +1,13 @@
 <h2>Hi 👋 , I'm Kabir!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Medical Machine Learning Engineer x Data & MLOps Engineer!!!😊
+### PhD Researcher in Biomedical Engineering and Imaging Sciences
 Specialty: Computer Vision & Medical Imaging
 
-- 🌱 I’m currently learning image processing techniques with deep learning
+- 🌱 MSC. in Medical Imaging and Applications
+- 🌱 B.Eng in Biomedical Engineering
 - 📚 Data and MLOps on Cloud platforms
-- ⚡ I have a strong interest in AI for Medical Diagnosis, Prognosis and Treatment
+- ⚡ AI for Medical Diagnosis, Prognosis and Treatment
 - 👯 I’m always ready to collaborate with other learners
 - 😄 Pronouns: He/Him
 
